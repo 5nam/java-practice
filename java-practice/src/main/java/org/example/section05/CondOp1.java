@@ -1,4 +1,4 @@
-package org.example.section06;
+package org.example.section05;
 
 public class CondOp1 {
     public static void main(String[] args) {
